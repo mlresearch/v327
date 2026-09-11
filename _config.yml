@@ -1,0 +1,91 @@
+---
+booktitle: Proceedings of The 1st Symposium on Probabilistic Machine Learning
+shortname: ProbML
+volume: '327'
+year: '2026'
+start: &1 2026-07-05
+end: 2026-07-05
+published: 2026-09-11
+layout: proceedings
+series: Proceedings of Machine Learning Research
+publisher: PMLR
+issn: 2640-3498
+id: ProbML-2026
+month: 0
+cycles: false
+bibtex_editor: Swaroop, Siddharth and R\"{u}gamer, David and Kristiadi, Agustinus
+editor:
+- given: Siddharth
+  family: Swaroop
+- given: David
+  family: Rügamer
+- given: Agustinus
+  family: Kristiadi
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of The 1st Symposium on Probabilistic Machine Learning
+    Held in Korea Institute for Advanced Study, Seoul, South Korea on 05 July 2026
+
+  Published as Volume 327 by the Proceedings of Machine Learning Research on 11 September 2026.
+
+  Volume Edited by:
+    Siddharth Swaroop
+    David Rügamer
+    Agustinus Kristiadi
+
+  Series Editors:
+    Tegan Emerson
+    Hoel Kervadec
+    Neil D. Lawrence
+date_str: 05 Jul
+url: https://proceedings.mlr.press
+author:
+  name: PMLR
+baseurl: "/v327"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: mlresearch/jekyll-theme
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v327
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+volume_type: Volume
+volume_dir: v327
+email: ''
+conference:
+  name: Symposium on Probabilistic Machine Learning
+  url: https://probml.cc
+  location: Korea Institute for Advanced Study, Seoul, South Korea
+  dates:
+  - *1
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+link_visibility:
+  openreview: true
+  pdf: true
+  supplementary: true
+  software: true
+  video: true
+  arxiv: true
+  doi: true
+  website: true
+orig_bibfile: v327_clean.bib
+# Site settings
+# Original source:  v327_clean.bib
