@@ -3,7 +3,7 @@ booktitle: Proceedings of The 1st Symposium on Probabilistic Machine Learning
 shortname: ProbML
 volume: '327'
 year: '2026'
-start: &1 2026-07-05
+start: 2026-07-05
 end: 2026-07-05
 published: 2026-09-11
 layout: proceedings
@@ -73,7 +73,7 @@ conference:
   url: https://probml.cc
   location: Korea Institute for Advanced Study, Seoul, South Korea
   dates:
-  - *1
+  - 2026-07-05
 analytics:
   google:
     tracking_id: UA-92432422-1
